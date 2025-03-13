@@ -1,0 +1,36 @@
+Flujo de Ciclo de vida del dato en Azure
+1. Ingesta de Datos
+✅ Azure Data Factory
+✅ Azure Stream Analytics
+✅ Azure IoT Hub
+
+2. Almacenamiento de Datos
+✅ Azure Data Lake Storage Gen2
+✅ Azure SQL Database
+✅ Cosmos DB
+✅ Azure Blob Storage
+
+3. Procesamiento y Transformación
+✅ Azure Databricks
+✅ Azure Synapse Analytics 
+✅ Azure Functions 
+✅ Azure Data Factory
+
+4. Análisis y Consumo
+✅ Power BI
+✅ Azure Synapse Analytics 
+✅ Azure Machine Learning
+
+5. Seguridad, Gobierno y Cumplimiento
+✅ Azure Purview 
+✅ Azure Security Center 
+✅ Azure Key Vault
+
+6. Archivado y Retención
+✅ Azure Backup
+✅ Azure Blob Storage Archive
+
+Que herramientas pueden remplazar al azure porque para cada servicio de azre se paga en dólares 
+si uso Azure Data Factory que opción se podrá usar con herramientas free
+
+Apuntaremos en construir un datawarehouse
